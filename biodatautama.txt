@@ -3,5 +3,4 @@ kelas : xii rpl
 alamat : jln soekarno hatta 123
 ttl : bandung, 14 agustus 2004
 jenis kelamin : laki-laki
-hobi : nonton film
-cita-cita : web developement, guru
+hobi : nonton film, amin sosmed
